@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS70918DRVRM3
+D LDO Voltage Regulators 150-mA, 30-V, ultra-low-IQ, low-dropout voltage regulator with reverse current protection and enable
+K
+F https://www.ti.com/lit/gpn/tps709
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,790 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "559794e2-5962-4ac4-a955-dd1feb19605a")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 120.65 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "047faa01-73b3-4b0c-bba7-94a1f8a791ed")
+	)
+	(junction
+		(at 146.05 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2af50ae3-e931-4441-933b-bd2be19d1cc9")
+	)
+	(junction
+		(at 158.75 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39803e7c-1907-418c-ba50-2b73f125876c")
+	)
+	(junction
+		(at 196.85 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56f1f22a-65fb-4e37-9202-af889fe22ab4")
+	)
+	(junction
+		(at 152.4 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9eb71655-1d04-4991-a52b-478b1b54b34b")
+	)
+	(junction
+		(at 146.05 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6cf1522-0309-4d13-b917-e8f5813cf06b")
+	)
+	(wire
+		(pts
+			(xy 158.75 99.06) (xy 158.75 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d04ca57-ccfb-4dcd-93e4-3af666b58698")
+	)
+	(wire
+		(pts
+			(xy 101.6 88.9) (xy 146.05 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26d893e3-d9e2-4f8a-bf89-91382e93f14d")
+	)
+	(wire
+		(pts
+			(xy 146.05 109.22) (xy 165.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e323460-d7e0-44c5-9492-a07b4e304754")
+	)
+	(wire
+		(pts
+			(xy 190.5 69.85) (xy 196.85 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ea551e0-ea71-47c4-ae4d-3fd6fe5941fe")
+	)
+	(wire
+		(pts
+			(xy 107.95 44.45) (xy 146.05 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f0eabe9-4e98-4580-a7b9-47eb66e32648")
+	)
+	(wire
+		(pts
+			(xy 146.05 88.9) (xy 146.05 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dcf67c8-f32e-4019-afb8-892e7f490da1")
+	)
+	(wire
+		(pts
+			(xy 190.5 95.25) (xy 196.85 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57746ce1-44c3-456d-85b3-c17a3d629845")
+	)
+	(wire
+		(pts
+			(xy 95.25 69.85) (xy 101.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57f9911b-91e8-4ce5-803b-3c713a424ee0")
+	)
+	(wire
+		(pts
+			(xy 95.25 99.06) (xy 120.65 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ece5627-b5c6-4c34-ace3-36bb412e8e24")
+	)
+	(wire
+		(pts
+			(xy 95.25 139.7) (xy 120.65 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73581e38-6c2a-4a7e-a917-00c92cdbd304")
+	)
+	(wire
+		(pts
+			(xy 152.4 63.5) (xy 139.7 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c7b0ba-eddd-4a94-899f-9155d4bb1aac")
+	)
+	(wire
+		(pts
+			(xy 158.75 99.06) (xy 165.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dd920d5-44f0-4933-b2ec-81ac4d75a110")
+	)
+	(wire
+		(pts
+			(xy 146.05 57.15) (xy 165.1 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8261c7a7-4af2-4191-a34d-51d08127db9c")
+	)
+	(wire
+		(pts
+			(xy 139.7 69.85) (xy 146.05 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "914912fc-bd7b-495a-8353-d46a3da9d018")
+	)
+	(wire
+		(pts
+			(xy 146.05 69.85) (xy 146.05 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "983e532a-2d8a-4b61-8fe0-ea0fbb97c647")
+	)
+	(wire
+		(pts
+			(xy 107.95 63.5) (xy 107.95 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e4ee9bd-1797-4ec6-b5b0-a772927df427")
+	)
+	(wire
+		(pts
+			(xy 152.4 82.55) (xy 152.4 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ef1a2ab-50cd-4435-9444-68ecefc1989d")
+	)
+	(wire
+		(pts
+			(xy 196.85 69.85) (xy 196.85 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a99c8c4f-42b5-49e5-8afd-89e436766228")
+	)
+	(wire
+		(pts
+			(xy 146.05 44.45) (xy 146.05 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad753afc-23a7-469b-a8a0-7aa90b90c8b8")
+	)
+	(wire
+		(pts
+			(xy 120.65 99.06) (xy 158.75 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7f024fb-60f1-4b82-8309-3c163e1b9732")
+	)
+	(wire
+		(pts
+			(xy 95.25 63.5) (xy 107.95 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4915bfd-26ba-4ca6-96d8-12ae136723a7")
+	)
+	(wire
+		(pts
+			(xy 158.75 69.85) (xy 165.1 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d63bbb30-a283-45d3-9bf0-a065a97f62fd")
+	)
+	(wire
+		(pts
+			(xy 107.95 82.55) (xy 152.4 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d985f271-490d-4ac8-ad65-3638849e58a3")
+	)
+	(wire
+		(pts
+			(xy 120.65 139.7) (xy 120.65 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da3c58da-c944-4255-9d59-29f3c1521e07")
+	)
+	(wire
+		(pts
+			(xy 165.1 104.14) (xy 152.4 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e521e5a4-7db4-46c4-8777-8cd2c8714b04")
+	)
+	(wire
+		(pts
+			(xy 107.95 57.15) (xy 107.95 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb7e17a1-f957-4a5b-8fe1-f7c032c2dcfa")
+	)
+	(wire
+		(pts
+			(xy 101.6 69.85) (xy 101.6 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec6ef574-6fdb-4a10-b5ea-5ed29de37f72")
+	)
+	(wire
+		(pts
+			(xy 139.7 57.15) (xy 146.05 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef684b54-c847-47e1-a370-a7daa0a01866")
+	)
+	(wire
+		(pts
+			(xy 152.4 104.14) (xy 152.4 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efc19db0-b057-4c18-a958-ecdc5b69999c")
+	)
+	(wire
+		(pts
+			(xy 95.25 57.15) (xy 107.95 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0a57515-2f95-4cd6-a291-c7b02872f8aa")
+	)
+	(wire
+		(pts
+			(xy 196.85 95.25) (xy 203.2 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa6248e9-7aea-417a-aef2-1202dc20496b")
+	)
+	(sheet
+		(at 69.85 88.9)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a6bca0b-e082-441e-a45d-cfd6cc276222")
+		(property "Sheetname" "USB_C_Input"
+			(at 69.85 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_C_Input.kicad_sch"
+			(at 69.85 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Vin" output
+			(at 95.25 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8f367b81-6071-46f8-a905-22d28845ddae")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 88.9)
+		(size 25.4 25.4)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "70196ea6-06d5-419d-95c8-b98497a3893e")
+		(property "Sheetname" "chargeController"
+			(at 165.1 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "chargeController_sch.kicad_sch"
+			(at 158.75 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 165.1 109.22 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "398e6640-6ba0-4902-a332-bab260bdcc42")
+		)
+		(pin "SCL" input
+			(at 165.1 104.14 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "14037f71-3159-4211-a26b-a368eade0dbd")
+		)
+		(pin "Vin" input
+			(at 165.1 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c66acf58-26d3-473b-b6c3-5357d7aab106")
+		)
+		(pin "V_CHG" output
+			(at 190.5 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6bea7a1b-347e-4daa-8e2b-1804166bbc45")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 127)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "84786ce9-9b9b-4a36-b4dd-dbd93cfdddd7")
+		(property "Sheetname" "Bullet_Sockets"
+			(at 69.85 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Bullet_Sockets.kicad_sch"
+			(at 69.85 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Vin" input
+			(at 95.25 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "38314efa-b7e0-4fd5-b90d-dcc6044c1795")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9ec107ca-513a-4857-9759-8790e056a698")
+		(property "Sheetname" "5V_LDO"
+			(at 165.1 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5V_LDO.kicad_sch"
+			(at 165.1 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "V_CHG" input
+			(at 190.5 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "59e4b064-dec7-44b7-8687-176663d902e1")
+		)
+		(pin "5V_REG" output
+			(at 165.1 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e1b380d1-7055-444a-822c-8fef25e8ad54")
+		)
+		(pin "Vin" input
+			(at 165.1 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2cd5ce63-2cce-47a2-be24-24f8dc2f037a")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 88.9)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "adb0609c-6198-4397-83d0-7580bce7cb07")
+		(property "Sheetname" "BMS"
+			(at 203.2 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BMS_sch.kicad_sch"
+			(at 203.2 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "V_CHG" bidirectional
+			(at 203.2 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "df1dfeb8-b3ff-47f3-8bd0-b64ee57ab86d")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "be0410c9-919d-4a2f-88b8-74a86f463a17")
+		(property "Sheetname" "OLED"
+			(at 69.85 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OLED.kicad_sch"
+			(at 69.85 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 95.25 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "19f3316a-c9b6-4713-9421-4a43168c1e4d")
+		)
+		(pin "SDA" input
+			(at 95.25 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c90500bb-a5eb-4287-8411-d9d2132382bd")
+		)
+		(pin "5V_REG" input
+			(at 95.25 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b6b89e8b-db38-46d2-8c52-031e5dbe15d5")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 50.8)
+		(size 25.4 25.4)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d8624b78-c98e-453c-ac2d-2dcc56be1b98")
+		(property "Sheetname" "ATTINY402"
+			(at 114.3 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ATTINY202_sch.kicad_sch"
+			(at 112.522 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 139.7 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "81214b13-f22c-4230-9fa6-519b8c4dacd3")
+		)
+		(pin "SCL" output
+			(at 139.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d7dba1bf-d99d-4114-b75a-b4b6683084fe")
+		)
+		(pin "5V_REG" input
+			(at 139.7 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5b686700-1e6d-4075-bbe2-6075e482103b")
+		)
+		(instances
+			(project "3S_coinCellChargeController"
+				(path "/559794e2-5962-4ac4-a955-dd1feb19605a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

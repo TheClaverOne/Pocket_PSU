@@ -1,0 +1,26 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "51e2dd05-2cf6-4f30-a60f-0da334714b0c")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Moved to seperate project until I figure out multiboard projects"
+		(exclude_from_sim no)
+		(at 146.05 88.9 0)
+		(size 25.4 12.7)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f6988efa-6a37-43f6-89fd-f8a3dd53b10d")
+	)
+)

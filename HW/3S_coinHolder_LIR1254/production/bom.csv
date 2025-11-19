@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BT1, BT2, BT3",BAT_2996,3,2996,
+J1,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Socket,
+"J2, J3",PinSocket_1x04_P2.54mm_Vertical,2,Conn_01x04_Pin,

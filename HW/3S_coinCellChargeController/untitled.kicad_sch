@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "98eabab1-6be7-481e-872b-ffcca07c672e")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "VOUT"
+		(shape output)
+		(at 157.48 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b504fd9-ded4-481c-8888-63e3ca2385eb")
+	)
+)
